@@ -4,3 +4,10 @@ Bob:
   last_name: "Hu"
   profile_name: "bobhu"
   email: "bob@gmail.com"
+
+eric:
+
+  first_name: "eric"
+  last_name: "lee"
+  profile_name: "ericlee"
+  email: "123456@gmail.com"
